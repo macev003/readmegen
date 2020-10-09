@@ -1,9 +1,10 @@
-// array of questions for user
+
 const generateMarkdown = require("./utils/generateMarkdown");
 const fs = require("fs");
 const inquirer = require("inquirer");
 const path = require("path");
 const questions = [
+  // array of questions for user
     {
         type: "input",
         message: "What is the title for this project?",
@@ -19,6 +20,11 @@ const questions = [
         message: "Please choose a license option",
         name: "license",
         choices: ["MIT", "Apache2.0", "GNUv3.0", "BSD3", "none"]
+      },
+      {
+        type: "input",
+        message: "What is needed to install this application?",
+        name: "installation"
       }
 
 ];

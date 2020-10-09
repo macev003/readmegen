@@ -24,6 +24,7 @@ ${data.usage}
 ${data.credits}
 
 ## Contributing
+${data.contributing}
 
 
 

@@ -27,8 +27,21 @@ const questions = [
         name: "installation"
       },
       {
+        type: "list",
+        message: "Are you allowing contributors?",
+        name: "contributors",
+        choices: ["Yes", "No"]
+      },
+      {
         type: "input",
-        message: ""
+        message: "What is your GitHub profile?",
+        name: "questions"
+      },
+      {
+        type: "input",
+        message: "What is your email address?",
+        name: "questions"
+
       }
 
 ];

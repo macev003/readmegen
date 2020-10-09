@@ -25,6 +25,10 @@ const questions = [
         type: "input",
         message: "What is needed to install this application?",
         name: "installation"
+      },
+      {
+        type: "input",
+        message: ""
       }
 
 ];

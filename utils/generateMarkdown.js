@@ -23,14 +23,13 @@ ${data.usage}
 ##Credits
 ${data.credits}
 
-## Contributing
-${data.contributing}
-
 ## Tests
 ${data.tests}
 
 ## Questions
 ${data.questions}
+[GitHub](http://https://github.com/macev003)
+[Email](http://https://m.acevedo53@yahoo.com)
 
 
 

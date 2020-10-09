@@ -11,7 +11,9 @@ ${data.tableOfContents}
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 * [License](#license)
 
 ##Installation
